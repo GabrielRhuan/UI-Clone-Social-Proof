@@ -9,6 +9,9 @@ ul, li, a{
     list-style: none;
     text-decoration: none;
 }
+
+/* texto principal */
+
 .main-text{
     display: flex;
     width: 100%;   
@@ -32,6 +35,9 @@ ul, li, a{
     max-width: 610px;
     color: rgb(124, 124, 124);
 }
+
+/* rated */
+
 .main-text .rated{
     display: flex;
     flex-direction: column;
